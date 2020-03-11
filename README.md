@@ -9,6 +9,7 @@ To complete this project, you'll need a Linux server instance. We recommend usin
  IP address : 54.160.176.9
  Grader user : grader
  Grader password : 1234
+ Port : 2200
  Project url : http://54.160.176.9.xip.io
  
 
